@@ -2,6 +2,8 @@
 
 """
 This python file performs trapezoidal smoothing of the speed. 
+
+Reference: https://github.com/f1tenth/f1tenth_system/blob/a9ca9fd2b422dba9019465a281f57ec93cbff55a/racecar/ackermann_cmd_mux/src/throttle_interpolator.py
 """
 import rospy
 
